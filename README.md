@@ -1,8 +1,6 @@
 Chinese Painting Style Rendering in Real Time
 -----------
 
-Theory
-***
 **Silhousette Detection**
 Calculate the dot product of view direction and normal vector in the shading point, then use the user-defined threshold to control the width of the outline.
 
@@ -23,4 +21,4 @@ Copy the uv of the original model and flip it. Set the color of the reflection b
 
 
 Rendering results
-![image](https://raw.github.com/Britjeans/repositpry/master/ChinesePaintingStyleRendering/images/captured.jpeg)
+![image](http://github.com/Britjeans/ChinesePaintingStyleRendering/raw/master/images/captured.jpeg)
